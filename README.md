@@ -18,7 +18,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 ## Installation
 
-- Clone the repo: `git clone git@github.com:vitalii4709/codeIgniter-shop`
+- Clone the repo: `git clone https://github.com/vitalii4709/codeIgniter-shop.git`
 - Go into the repo: `cd codeIgniter-shop` then `composer update`
 - When updating, check the release notes to see if there are any changes you might need to apply
     to your `app` folder. The affected files can be copied or merged from
